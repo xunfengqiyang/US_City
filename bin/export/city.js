@@ -204,5 +204,5 @@ var geoCoordMap = {
 	"Yakima-Pasco-Richland-Kennewick, WA":[-119.748852,46.29578],
 	"Youngstown, OH":[-80.543523,41.0505515],
 	"Yuma, AZ-El Centro, CA":[-114.7199745,32.751631],
-	"Zanesville, OH":[-81.9657085,39.961236],
+	"Zanesville, OH":[-81.9657085,39.961236]
 }

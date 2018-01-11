@@ -1,0 +1,858 @@
+[
+    {
+        "name": "New York", 
+        "value": "7074750 "
+    }, 
+    {
+        "name": "California", 
+        "value": "5318630 "
+    }, 
+    {
+        "name": "Illinois", 
+        "value": "3299720 "
+    }, 
+    {
+        "name": "Pennsylvania", 
+        "value": "2869580 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "2648490 "
+    }, 
+    {
+        "name": "District of Columbia", 
+        "value": "2492170 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "2467140 "
+    }, 
+    {
+        "name": "California", 
+        "value": "2451640 "
+    }, 
+    {
+        "name": "Georgia", 
+        "value": "2449460 "
+    }, 
+    {
+        "name": "Massachusetts", 
+        "value": "2425440 "
+    }, 
+    {
+        "name": "Arizona", 
+        "value": "1919930 "
+    }, 
+    {
+        "name": "Washington", 
+        "value": "1880750 "
+    }, 
+    {
+        "name": "Florida", 
+        "value": "1879760 "
+    }, 
+    {
+        "name": "Michigan", 
+        "value": "1779380 "
+    }, 
+    {
+        "name": "Minnesota", 
+        "value": "1730430 "
+    }, 
+    {
+        "name": "Florida", 
+        "value": "1677850 "
+    }, 
+    {
+        "name": "Colorado", 
+        "value": "1589560 "
+    }, 
+    {
+        "name": "Florida", 
+        "value": "1531130 "
+    }, 
+    {
+        "name": "Ohio", 
+        "value": "1447310 "
+    }, 
+    {
+        "name": "California", 
+        "value": "1412940 "
+    }, 
+    {
+        "name": "Missouri", 
+        "value": "1189890 "
+    }, 
+    {
+        "name": "Oregon", 
+        "value": "1180980 "
+    }, 
+    {
+        "name": "North Carolina", 
+        "value": "1145270 "
+    }, 
+    {
+        "name": "Pennsylvania", 
+        "value": "1141950 "
+    }, 
+    {
+        "name": "North Carolina", 
+        "value": "1133160 "
+    }, 
+    {
+        "name": "Maryland", 
+        "value": "1108010 "
+    }, 
+    {
+        "name": "Tennessee", 
+        "value": "1030650 "
+    }, 
+    {
+        "name": "Indiana", 
+        "value": "1086310 "
+    }, 
+    {
+        "name": "California", 
+        "value": "1002770 "
+    }, 
+    {
+        "name": "Utah", 
+        "value": "948840 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "924480 "
+    }, 
+    {
+        "name": "Connecticut", 
+        "value": "921500 "
+    }, 
+    {
+        "name": "Missouri", 
+        "value": "901020 "
+    }, 
+    {
+        "name": "Ohio", 
+        "value": "896980 "
+    }, 
+    {
+        "name": "Ohio", 
+        "value": "871970 "
+    }, 
+    {
+        "name": "Wisconsin", 
+        "value": "868500 "
+    }, 
+    {
+        "name": "Florida", 
+        "value": "829110 "
+    }, 
+    {
+        "name": "South Carolina", 
+        "value": "809190 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "791480 "
+    }, 
+    {
+        "name": "Nevada", 
+        "value": "757400 "
+    }, 
+    {
+        "name": "Oklahoma", 
+        "value": "705840 "
+    }, 
+    {
+        "name": "Florida", 
+        "value": "700890 "
+    }, 
+    {
+        "name": "Michigan", 
+        "value": "689950 "
+    }, 
+    {
+        "name": "Alabama", 
+        "value": "687180 "
+    }, 
+    {
+        "name": "Pennsylvania", 
+        "value": "682460 "
+    }, 
+    {
+        "name": "New Mexico", 
+        "value": "674930 "
+    }, 
+    {
+        "name": "Virginia", 
+        "value": "673820 "
+    }, 
+    {
+        "name": "North Carolina", 
+        "value": "672650 "
+    }, 
+    {
+        "name": "Kentucky", 
+        "value": "657030 "
+    }, 
+    {
+        "name": "Tennessee", 
+        "value": "649360 "
+    }, 
+    {
+        "name": "Louisiana", 
+        "value": "638020 "
+    }, 
+    {
+        "name": "Rhode Island", 
+        "value": "597990 "
+    }, 
+    {
+        "name": "New York", 
+        "value": "592750 "
+    }, 
+    {
+        "name": "California", 
+        "value": "574610 "
+    }, 
+    {
+        "name": "Virginia", 
+        "value": "566930 "
+    }, 
+    {
+        "name": "Florida", 
+        "value": "549760 "
+    }, 
+    {
+        "name": "Pennsylvania", 
+        "value": "523450 "
+    }, 
+    {
+        "name": "Arkansas", 
+        "value": "522530 "
+    }, 
+    {
+        "name": "Alabama", 
+        "value": "522260 "
+    }, 
+    {
+        "name": "New York", 
+        "value": "521820 "
+    }, 
+    {
+        "name": "Tennessee", 
+        "value": "516920 "
+    }, 
+    {
+        "name": "Oklahoma", 
+        "value": "516540 "
+    }, 
+    {
+        "name": "Kentucky", 
+        "value": "459300 "
+    }, 
+    {
+        "name": "Ohio", 
+        "value": "453960 "
+    }, 
+    {
+        "name": "Arizona", 
+        "value": "433330 "
+    }, 
+    {
+        "name": "Hawaii", 
+        "value": "419540 "
+    }, 
+    {
+        "name": "Kansas", 
+        "value": "416400 "
+    }, 
+    {
+        "name": "Iowa", 
+        "value": "416020 "
+    }, 
+    {
+        "name": "Wisconsin", 
+        "value": "415890 "
+    }, 
+    {
+        "name": "Virginia", 
+        "value": "414620 "
+    }, 
+    {
+        "name": "Michigan", 
+        "value": "411210 "
+    }, 
+    {
+        "name": "Washington", 
+        "value": "410900 "
+    }, 
+    {
+        "name": "West Virginia", 
+        "value": "406310 "
+    }, 
+    {
+        "name": "Nebraska", 
+        "value": "399010 "
+    }, 
+    {
+        "name": "Missouri", 
+        "value": "389750 "
+    }, 
+    {
+        "name": "New York", 
+        "value": "384380 "
+    }, 
+    {
+        "name": "South Carolina", 
+        "value": "384190 "
+    }, 
+    {
+        "name": "Ohio", 
+        "value": "379120 "
+    }, 
+    {
+        "name": "Maine", 
+        "value": "367720 "
+    }, 
+    {
+        "name": "Alabama", 
+        "value": "367510 "
+    }, 
+    {
+        "name": "Wisconsin", 
+        "value": "366690 "
+    }, 
+    {
+        "name": "Kentucky", 
+        "value": "354790 "
+    }, 
+    {
+        "name": "Louisiana", 
+        "value": "352540 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "351810 "
+    }, 
+    {
+        "name": "New York", 
+        "value": "350100 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "346750 "
+    }, 
+    {
+        "name": "Colorado", 
+        "value": "344250 "
+    }, 
+    {
+        "name": "Illinois", 
+        "value": "344180 "
+    }, 
+    {
+        "name": "Tennessee", 
+        "value": "336580 "
+    }, 
+    {
+        "name": "Georgia", 
+        "value": "328860 "
+    }, 
+    {
+        "name": "Iowa", 
+        "value": "325780 "
+    }, 
+    {
+        "name": "South Carolina", 
+        "value": "320980 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "318260 "
+    }, 
+    {
+        "name": "Louisiana", 
+        "value": "314970 "
+    }, 
+    {
+        "name": "Mississippi", 
+        "value": "306410 "
+    }, 
+    {
+        "name": "Indiana", 
+        "value": "297680 "
+    }, 
+    {
+        "name": "Vermont", 
+        "value": "294020 "
+    }, 
+    {
+        "name": "Arkansas", 
+        "value": "292160 "
+    }, 
+    {
+        "name": "Tennessee", 
+        "value": "290530 "
+    }, 
+    {
+        "name": "North Carolina", 
+        "value": "285650 "
+    }, 
+    {
+        "name": "South Carolina", 
+        "value": "281550 "
+    }, 
+    {
+        "name": "Iowa", 
+        "value": "277950 "
+    }, 
+    {
+        "name": "Indiana", 
+        "value": "264890 "
+    }, 
+    {
+        "name": "Idaho", 
+        "value": "264300 "
+    }, 
+    {
+        "name": "Nevada", 
+        "value": "263990 "
+    }, 
+    {
+        "name": "Nebraska", 
+        "value": "263110 "
+    }, 
+    {
+        "name": "Pennsylvania", 
+        "value": "262020 "
+    }, 
+    {
+        "name": "Florida", 
+        "value": "257570 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "253230 "
+    }, 
+    {
+        "name": "South Dakota", 
+        "value": "252600 "
+    }, 
+    {
+        "name": "Indiana", 
+        "value": "249130 "
+    }, 
+    {
+        "name": "Georgia", 
+        "value": "249090 "
+    }, 
+    {
+        "name": "North Dakota", 
+        "value": "240560 "
+    }, 
+    {
+        "name": "Washington", 
+        "value": "239760 "
+    }, 
+    {
+        "name": "Michigan", 
+        "value": "238990 "
+    }, 
+    {
+        "name": "Massachusetts", 
+        "value": "237580 "
+    }, 
+    {
+        "name": "Ohio", 
+        "value": "234120 "
+    }, 
+    {
+        "name": "Michigan", 
+        "value": "233370 "
+    }, 
+    {
+        "name": "Oregon", 
+        "value": "231570 "
+    }, 
+    {
+        "name": "Georgia", 
+        "value": "222970 "
+    }, 
+    {
+        "name": "Louisiana", 
+        "value": "222450 "
+    }, 
+    {
+        "name": "Illinois", 
+        "value": "222210 "
+    }, 
+    {
+        "name": "California", 
+        "value": "222190 "
+    }, 
+    {
+        "name": "Alabama", 
+        "value": "218740 "
+    }, 
+    {
+        "name": "California", 
+        "value": "217560 "
+    }, 
+    {
+        "name": "California", 
+        "value": "212180 "
+    }, 
+    {
+        "name": "Georgia", 
+        "value": "206520 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "198820 "
+    }, 
+    {
+        "name": "Wisconsin", 
+        "value": "196160 "
+    }, 
+    {
+        "name": "North Carolina", 
+        "value": "191440 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "179920 "
+    }, 
+    {
+        "name": "California", 
+        "value": "179370 "
+    }, 
+    {
+        "name": "Mississippi", 
+        "value": "172520 "
+    }, 
+    {
+        "name": "Wisconsin", 
+        "value": "166030 "
+    }, 
+    {
+        "name": "Missouri", 
+        "value": "163790 "
+    }, 
+    {
+        "name": "Oregon", 
+        "value": "163600 "
+    }, 
+    {
+        "name": "Louisiana", 
+        "value": "161950 "
+    }, 
+    {
+        "name": "Illinois", 
+        "value": "161530 "
+    }, 
+    {
+        "name": "Kansas", 
+        "value": "161010 "
+    }, 
+    {
+        "name": "Minnesota", 
+        "value": "157070 "
+    }, 
+    {
+        "name": "North Dakota", 
+        "value": "156240 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "156020 "
+    }, 
+    {
+        "name": "Maryland", 
+        "value": "155240 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "153830 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "153370 "
+    }, 
+    {
+        "name": "California", 
+        "value": "152840 "
+    }, 
+    {
+        "name": "Alaska", 
+        "value": "149120 "
+    }, 
+    {
+        "name": "Iowa", 
+        "value": "144180 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "142990 "
+    }, 
+    {
+        "name": "Pennsylvania", 
+        "value": "141020 "
+    }, 
+    {
+        "name": "Florida", 
+        "value": "137830 "
+    }, 
+    {
+        "name": "Missouri", 
+        "value": "136740 "
+    }, 
+    {
+        "name": "Minnesota", 
+        "value": "134990 "
+    }, 
+    {
+        "name": "Georgia", 
+        "value": "134510 "
+    }, 
+    {
+        "name": "Indiana", 
+        "value": "127470 "
+    }, 
+    {
+        "name": "Maine", 
+        "value": "125970 "
+    }, 
+    {
+        "name": "Mississippi", 
+        "value": "124130 "
+    }, 
+    {
+        "name": "West Virginia", 
+        "value": "121320 "
+    }, 
+    {
+        "name": "Florida", 
+        "value": "121060 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "120100 "
+    }, 
+    {
+        "name": "New York", 
+        "value": "120060 "
+    }, 
+    {
+        "name": "Idaho", 
+        "value": "119590 "
+    }, 
+    {
+        "name": "West Virginia", 
+        "value": "118520 "
+    }, 
+    {
+        "name": "Montana", 
+        "value": "113110 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "107760 "
+    }, 
+    {
+        "name": "Arizona", 
+        "value": "105690 "
+    }, 
+    {
+        "name": "Montana", 
+        "value": "105470 "
+    }, 
+    {
+        "name": "Mississippi", 
+        "value": "102840 "
+    }, 
+    {
+        "name": "West Virginia", 
+        "value": "97020 "
+    }, 
+    {
+        "name": "South Dakota", 
+        "value": "95320 "
+    }, 
+    {
+        "name": "New York", 
+        "value": "93930 "
+    }, 
+    {
+        "name": "Illinois", 
+        "value": "93920 "
+    }, 
+    {
+        "name": "Alabama", 
+        "value": "92300 "
+    }, 
+    {
+        "name": "Louisiana", 
+        "value": "91490 "
+    }, 
+    {
+        "name": "Virginia", 
+        "value": "86700 "
+    }, 
+    {
+        "name": "New York", 
+        "value": "86230 "
+    }, 
+    {
+        "name": "Tennessee", 
+        "value": "85540 "
+    }, 
+    {
+        "name": "Louisiana", 
+        "value": "82270 "
+    }, 
+    {
+        "name": "New York", 
+        "value": "81630 "
+    }, 
+    {
+        "name": "Michigan", 
+        "value": "78000 "
+    }, 
+    {
+        "name": "Kentucky", 
+        "value": "77360 "
+    }, 
+    {
+        "name": "Arkansas", 
+        "value": "76860 "
+    }, 
+    {
+        "name": "Virginia", 
+        "value": "72320 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "70980 "
+    }, 
+    {
+        "name": "Montana", 
+        "value": "69060 "
+    }, 
+    {
+        "name": "Oregon", 
+        "value": "67170 "
+    }, 
+    {
+        "name": "Colorado", 
+        "value": "67150 "
+    }, 
+    {
+        "name": "Indiana", 
+        "value": "66710 "
+    }, 
+    {
+        "name": "Ohio", 
+        "value": "62840 "
+    }, 
+    {
+        "name": "Idaho", 
+        "value": "62360 "
+    }, 
+    {
+        "name": "Mississippi", 
+        "value": "61460 "
+    }, 
+    {
+        "name": "Montana", 
+        "value": "60220 "
+    }, 
+    {
+        "name": "Mississippi", 
+        "value": "58410 "
+    }, 
+    {
+        "name": "West Virginia", 
+        "value": "56980 "
+    }, 
+    {
+        "name": "California", 
+        "value": "56660 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "54100 "
+    }, 
+    {
+        "name": "Wyoming", 
+        "value": "53720 "
+    }, 
+    {
+        "name": "Wyoming", 
+        "value": "52190 "
+    }, 
+    {
+        "name": "Minnesota", 
+        "value": "49610 "
+    }, 
+    {
+        "name": "Iowa", 
+        "value": "42990 "
+    }, 
+    {
+        "name": "Missouri", 
+        "value": "42230 "
+    }, 
+    {
+        "name": "Alaska", 
+        "value": "35180 "
+    }, 
+    {
+        "name": "Texas", 
+        "value": "31380 "
+    }, 
+    {
+        "name": "Ohio", 
+        "value": "30550 "
+    }, 
+    {
+        "name": "Montana", 
+        "value": "27430 "
+    }, 
+    {
+        "name": "Maine", 
+        "value": "25480 "
+    }, 
+    {
+        "name": "Alaska", 
+        "value": "24390 "
+    }, 
+    {
+        "name": "Michigan", 
+        "value": "15360 "
+    }, 
+    {
+        "name": "Nebraska", 
+        "value": "13640 "
+    }, 
+    {
+        "name": "Montana", 
+        "value": "4030 "
+    }, 
+    {
+        "name": "American Samoa", 
+        "value": "N/A"
+    }, 
+    {
+        "name": "Guam", 
+        "value": "N/A"
+    }, 
+    {
+        "name": "Puerto Rico", 
+        "value": "N/A"
+    }, 
+    {
+        "name": "U.S. Virgin Islands", 
+        "value": "N/A"
+    }
+]
